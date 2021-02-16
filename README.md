@@ -1,1 +1,2 @@
-# palacesolutions.github.io
+# palacesolutions
+Public facing site for Palace Solutions
